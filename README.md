@@ -13,7 +13,7 @@ This a short-term project that utilzes openAI API to build a React web applicati
   - Other UI components
   - Deployment to Heroku
 - Extra
-  - Save responses if the user leaves or reloads the page
+  - Save responses if the user leaves or reloads the page (use local storage)
 
 ## Key Skills
 
