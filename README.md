@@ -1,4 +1,4 @@
-# Fun with AI - Spotify summer 2022
+# Fun with AI - Shopify summer 2022
 
 This a short-term project that utilzes openAI API to build a React web application. This app allows users to input any prompt and output a response story about it.
 
